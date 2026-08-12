@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "furpach.aternos.me",
-    "port": 59411,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -89,4 +89,3 @@
     "respond": true
   }
 }
- [KP], 
